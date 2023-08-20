@@ -39,6 +39,7 @@
 ![image](https://github.com/Brahim-AIT-OUALI/DecisionTree/assets/115220907/e940fc53-d56f-4338-924f-e4ea9d5a14c5).
 
 ![image](https://github.com/Brahim-AIT-OUALI/DecisionTree/assets/115220907/da817ca4-95df-4c49-826d-3cade48b4810).
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ![image](https://github.com/Brahim-AIT-OUALI/DecisionTree/assets/115220907/602d2ebd-6268-4b62-ab0d-d8f7d22d7bc4).
 
 
