@@ -53,6 +53,12 @@
 
 ![image](https://github.com/Brahim-AIT-OUALI/DecisionTree/assets/115220907/5c3dcfe4-4258-4e9f-aab8-cbd6226f1812).
 ![image](https://github.com/Brahim-AIT-OUALI/DecisionTree/assets/115220907/e964cfb2-2f00-4857-9b29-3ecdbf2701e5)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### -   Autres cas : ### ● feautures continues
+                    ### ● features multi-catégorielles (N>2)
+                    ### ● choix feature pour le noeud racine.
+  ### ● feature continue : nombre de mot sdans le mail
+![image](https://github.com/Brahim-AIT-OUALI/DecisionTree/assets/115220907/a502ab75-3a14-4ccc-8355-91f74d05c4c8)
 
 
 
