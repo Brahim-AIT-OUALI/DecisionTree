@@ -42,7 +42,10 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ![image](https://github.com/Brahim-AIT-OUALI/DecisionTree/assets/115220907/602d2ebd-6268-4b62-ab0d-d8f7d22d7bc4).
 
+### Etude de cas simples : 
+### - 1 feature
 
+![image](https://github.com/Brahim-AIT-OUALI/DecisionTree/assets/115220907/d7861b8c-4d85-4c8a-8187-8ee9f5e1274f).
 
 
 
