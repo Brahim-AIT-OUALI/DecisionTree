@@ -29,6 +29,14 @@
 ![image](https://github.com/Brahim-AIT-OUALI/DecisionTree/assets/115220907/06a541b5-9c05-4433-8713-0801e2455615)
 
 ![image](https://github.com/Brahim-AIT-OUALI/DecisionTree/assets/115220907/3fd5ff05-53a3-48db-a32f-3c430c872afd)
+![image](https://github.com/Brahim-AIT-OUALI/DecisionTree/assets/115220907/b3aaca31-35f1-49bb-be48-dfb4410d17f2)
+
+![image](https://github.com/Brahim-AIT-OUALI/DecisionTree/assets/115220907/2b3111f0-8096-43dc-af63-47266be1538e)
+
+![image](https://github.com/Brahim-AIT-OUALI/DecisionTree/assets/115220907/e940fc53-d56f-4338-924f-e4ea9d5a14c5)
+
+
+
 
 
 
