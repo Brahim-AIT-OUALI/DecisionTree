@@ -68,6 +68,13 @@
 ![image](https://github.com/Brahim-AIT-OUALI/DecisionTree/assets/115220907/f1b277ef-a93e-4727-a436-f8baaf6cc417)
 ![image](https://github.com/Brahim-AIT-OUALI/DecisionTree/assets/115220907/409ccc9a-1f67-4d4d-8977-0d5429bac434)
 ### ● feature multi-catégorielle
+![image](https://github.com/Brahim-AIT-OUALI/DecisionTree/assets/115220907/6aa34126-32b8-4f25-a0cd-3199d1360ab9)
+![image](https://github.com/Brahim-AIT-OUALI/DecisionTree/assets/115220907/ef24ae7a-2ff1-4803-a90c-ce712daff45c)
+![image](https://github.com/Brahim-AIT-OUALI/DecisionTree/assets/115220907/b2222699-e422-4a10-8e10-ae1d2fa704a2)
+### En choisissant la feature dont l'impureté de Gini résultante est la plus faible dans ses noeuds feuilles, nous choisissons la feature qui divise le mieux les donneés en classes "pures".
+### Nous devons également noter qu'en utilisant l'impureté de gini comme mesure de l'efficacité d'un noeud de division, nous pouvons effectuer une sélection automatique de features en imposant un seuil d'impureté pour qu'une division supplémenatire basée sur les features se produise.
+
+
 
 
 
