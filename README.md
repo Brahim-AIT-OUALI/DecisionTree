@@ -74,8 +74,14 @@
 ### En choisissant la feature dont l'impureté de Gini résultante est la plus faible dans ses noeuds feuilles, nous choisissons la feature qui divise le mieux les donneés en classes "pures".
 ### Nous devons également noter qu'en utilisant l'impureté de gini comme mesure de l'efficacité d'un noeud de division, nous pouvons effectuer une sélection automatique de features en imposant un seuil d'impureté pour qu'une division supplémenatire basée sur les features se produise.
 
+### Ajustement de plusieurs hyperparamètres dans un arbre de décision.
 
+![image](https://github.com/Brahim-AIT-OUALI/DecisionTree/assets/115220907/70bb2526-4505-43bb-8fd3-24eb01e79a6a)
+### Eviter un arbre surentrainé, arbre qui s'adapte de manière excessive aux données d'entrainement
+### Pas suffisement biaisé pour donner des résulats satisfaisant sur les données test (=arbre trop profond avec beaucoup de divisions potentielles).
 
+### -  Ajout d'une diminution minimale de l'impureté Gini.
+### - Profondeur maximale de l'arbre de décision.
 
 
 
