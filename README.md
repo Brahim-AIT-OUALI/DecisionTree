@@ -26,6 +26,6 @@
 ### ● Cas de la classification : cela peut être considéré comme la mesure de l'uniformité des classes.
 ### ● Etude du cas le plus simple de 2 classes...
 
-###  ![image](https://github.com/Brahim-AIT-OUALI/DecisionTree/assets/115220907/5af0b263-27e5-49aa-bc42-c2da50dfbc35)
+###![image](https://github.com/Brahim-AIT-OUALI/DecisionTree/assets/115220907/5af0b263-27e5-49aa-bc42-c2da50dfbc35)
 
 
