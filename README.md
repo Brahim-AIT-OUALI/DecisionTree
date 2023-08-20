@@ -1,2 +1,2 @@
 # DecisionTree
-# Introduction aux méthodes basées sur les arbres
+## Introduction aux méthodes basées sur les arbres
