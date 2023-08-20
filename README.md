@@ -60,6 +60,27 @@
   ### ● feature continue : nombre de mot dans le mail
 ![image](https://github.com/Brahim-AIT-OUALI/DecisionTree/assets/115220907/a502ab75-3a14-4ccc-8355-91f74d05c4c8)
 ![image](https://github.com/Brahim-AIT-OUALI/DecisionTree/assets/115220907/e7c7daa5-d37a-4163-8b9d-ad54dd682290)
+<img width="466" alt="image" src="https://github.com/Brahim-AIT-OUALI/DecisionTree/assets/115220907/551b2f84-5711-4023-84b3-b2c47016d07f">
+<img width="433" alt="image" src="https://github.com/Brahim-AIT-OUALI/DecisionTree/assets/115220907/784d9076-7eea-472d-a395-a46533ad0bcc">.
+![image](https://github.com/Brahim-AIT-OUALI/DecisionTree/assets/115220907/df95d1a8-f2ab-478c-9e7e-d2051be4db16)
+![image](https://github.com/Brahim-AIT-OUALI/DecisionTree/assets/115220907/88b642db-b11e-43c6-b1ae-1305e94c0c70)
+![image](https://github.com/Brahim-AIT-OUALI/DecisionTree/assets/115220907/732491b4-43ef-4ef0-a491-893f3f883203)
+![image](https://github.com/Brahim-AIT-OUALI/DecisionTree/assets/115220907/f1b277ef-a93e-4727-a436-f8baaf6cc417)
+![image](https://github.com/Brahim-AIT-OUALI/DecisionTree/assets/115220907/409ccc9a-1f67-4d4d-8977-0d5429bac434)
+### ● feature multi-catégorielle
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
