@@ -20,5 +20,5 @@
 
 <img width="291" alt="image" src="https://github.com/Brahim-AIT-OUALI/DecisionTree/assets/115220907/6e6a48d0-226f-4028-99d2-84b2b4726025">.
 ### Idée derrière l'élagage est d'éviter le surapprentissage
+![image](https://github.com/Brahim-AIT-OUALI/DecisionTree/assets/115220907/3c1e1e3f-28bf-4502-a730-a5ded2196c4d)
 
-![image](https://github.com/Brahim-AIT-OUALI/DecisionTree/assets/115220907/d70c1503-79b9-4e5e-80ff-92252c268463)
