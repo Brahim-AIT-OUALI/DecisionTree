@@ -59,6 +59,9 @@
                     ### ● choix feature pour le noeud racine.
   ### ● feature continue : nombre de mot dans le mail
 ![image](https://github.com/Brahim-AIT-OUALI/DecisionTree/assets/115220907/a502ab75-3a14-4ccc-8355-91f74d05c4c8)
+![image](https://github.com/Brahim-AIT-OUALI/DecisionTree/assets/115220907/e7c7daa5-d37a-4163-8b9d-ad54dd682290)
+
+
 
 
 
