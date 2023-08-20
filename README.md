@@ -45,7 +45,7 @@
 ### Etude de cas simples : 
 ### - 1 feature, créons un arbre de décision pour voir si un email est un spam ou non.
 ### Il n'y a qu'une seule feature à utiliser pour un noeud et celle-ci n'a que 2 valeurs potentielles : yes ou no
-### Division sur cette feature, on aura 2 possibilités une qui divise sur le yes et une autre qui divise sur le no (question = est-ce que l'email conyient une URL vrai ou faux)
+### Division sur cette feature, on aura 2 possibilités une qui divise sur le yes et une autre qui divise sur le no (question = est-ce que l'email contient une URL vrai ou faux)
 ![image](https://github.com/Brahim-AIT-OUALI/DecisionTree/assets/115220907/cbdd0f9f-c1b5-4d13-a36b-7fd98dfbb783)
 
 
