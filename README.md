@@ -9,6 +9,6 @@
 <img width="365" alt="image" src="https://github.com/Brahim-AIT-OUALI/DecisionTree/assets/115220907/d39a6a15-be0b-4472-882b-a88ecc592929">
 
 <img width="346" alt="image" src="https://github.com/Brahim-AIT-OUALI/DecisionTree/assets/115220907/c808a9e6-f93f-44d9-8b09-26210ed0b931">
-####Le noeud racine = sommet de l'arbre = première condition ou feature surlaquelle on effectue une division
+### Le noeud racine = sommet de l'arbre = première condition ou feature surlaquelle on effectue une division
 
 
