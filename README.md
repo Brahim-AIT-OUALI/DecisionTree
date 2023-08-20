@@ -47,6 +47,9 @@
 ### Il n'y a qu'une seule feature à utiliser pour un noeud et celle-ci n'a que 2 valeurs potentielles : yes ou no
 ### Division sur cette feature, on aura 2 possibilités une qui divise sur le yes et une autre qui divise sur le no (question = est-ce que l'email contient une URL vrai ou faux)
 ![image](https://github.com/Brahim-AIT-OUALI/DecisionTree/assets/115220907/cbdd0f9f-c1b5-4d13-a36b-7fd98dfbb783)
+![image](https://github.com/Brahim-AIT-OUALI/DecisionTree/assets/115220907/87d2ada4-5bf8-4ca4-bac6-c85bab9f1283)
+
+
 
 
 
