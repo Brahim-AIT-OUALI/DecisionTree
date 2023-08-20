@@ -15,3 +15,6 @@
 
 ### Ils n'ont aucune données qui sortent = les données ne sont plus séparées quand on atteint un noeud terminal. Le résulat en sortie est pris au niveau du noeud terminal
 
+<img width="384" alt="image" src="https://github.com/Brahim-AIT-OUALI/DecisionTree/assets/115220907/01f2cb11-04cc-41ca-870d-8c6e396d3537">.
+### En théorie, je peux décider de faire un arbre plus petit, plus court. Dans cette exemple, c'est de décider de ne pas faire de division après ce coeud et d'en faire un noeud terminal.
+
