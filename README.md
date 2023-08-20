@@ -28,3 +28,4 @@
 
 ![image](https://github.com/Brahim-AIT-OUALI/DecisionTree/assets/115220907/5af0b263-27e5-49aa-bc42-c2da50dfbc35)
 
+
