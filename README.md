@@ -18,3 +18,5 @@
 <img width="384" alt="image" src="https://github.com/Brahim-AIT-OUALI/DecisionTree/assets/115220907/01f2cb11-04cc-41ca-870d-8c6e396d3537">.
 ### En théorie, je peux décider de faire un arbre plus petit, plus court. Dans cette exemple, c'est de décider de ne pas faire de division après ce coeud et d'en faire un noeud terminal.
 
+<img width="291" alt="image" src="https://github.com/Brahim-AIT-OUALI/DecisionTree/assets/115220907/6e6a48d0-226f-4028-99d2-84b2b4726025">.
+
