@@ -3,3 +3,4 @@
 <img width="518" alt="image" src="https://github.com/Brahim-AIT-OUALI/DecisionTree/assets/115220907/9048b434-6231-4a43-a04e-ac31b827d37c">
 
 ### -  Vocabulaire : 
+### Division (splitting)  = action de faire renter les données dans un noeud et séparer ou diviser ces données en fonction de la condition s'elle est vraie ou fausse.
