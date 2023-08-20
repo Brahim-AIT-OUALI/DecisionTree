@@ -11,4 +11,7 @@
 <img width="346" alt="image" src="https://github.com/Brahim-AIT-OUALI/DecisionTree/assets/115220907/c808a9e6-f93f-44d9-8b09-26210ed0b931">.
 ### Le noeud racine = sommet de l'arbre = première condition ou feature surlaquelle on effectue une division
 
+<img width="464" alt="image" src="https://github.com/Brahim-AIT-OUALI/DecisionTree/assets/115220907/4b6980ea-1a45-4031-b29c-68ed9c59b267">.
+
+### Ils n'ont aucune données qui sortent = les données ne sont plus séparées quand on atteint un noeud terminal. Le résulat en sortie est pris au niveau du noeud terminal
 
