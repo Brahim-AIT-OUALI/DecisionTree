@@ -83,7 +83,8 @@
 ### -  Ajout d'une diminution minimale de l'impureté Gini.
 ### - Profondeur maximale de l'arbre de décision.
 
-## Prédiction de l'espèce de pouinguin à partir de plusieurs caractériqtiques
+## Prédiction de l'espèce de pouinguin à partir de plusieurs caractériqtiques.
+
 ![image](https://github.com/Brahim-AIT-OUALI/DecisionTree/assets/115220907/4c9e5d94-fc1c-485d-9c1b-60bcbc49c61e).
 
 
