@@ -84,6 +84,7 @@
 ### - Profondeur maximale de l'arbre de décision.
 
 
+![image](https://github.com/Brahim-AIT-OUALI/DecisionTree/assets/115220907/4c9e5d94-fc1c-485d-9c1b-60bcbc49c61e)
 
 
 
